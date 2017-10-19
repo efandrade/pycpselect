@@ -31,4 +31,4 @@ movpointlist: selected coordinates in moving/skewed image
 pixelSize: pixel size of images
 ```
 
-With the return coordinate we can now do an affine transformation to moving/skewed image to reference image (This function will be added soon)
+With the return coordinates we can now do an affine transformation to transform moving/skewed image to match reference image (This function will be added soon)
